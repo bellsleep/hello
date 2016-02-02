@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\tools\android\android_sdk\android-sdk\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="G:\temp\temp\car\20160128\hello\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_77fda8a9d30b94685b7cf66b2005dbdde4d97275.jar" />
+    </item>
+    <item
+        jar="G:\temp\temp\car\20160128\hello\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="G:\temp\temp\car\20160128\hello\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_b353bb29c8c19b7a40cca8521301b9887133d6a0.jar" />
+    </item>
+    <item
+        jar="G:\temp\temp\car\20160128\hello\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="G:\temp\temp\car\20160128\hello\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.3_16f5508dbdaec91bee27dfa7dd7244cf44f28248.jar" />
+    </item>
+    <item
+        jar="G:\temp\temp\car\20160128\hello\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="G:\temp\temp\car\20160128\hello\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_56512dc4ac78f14f527ba86696a5b0ba45eb80c4.jar" />
+    </item>
+
+</items>
